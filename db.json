@@ -1,20 +1,44 @@
-[
+{
+  "courses": [
     {
-        "id": 1,
-        "name": "Malek Boubakri",
-        "roles": ["trainer", "advisor"],
-        "phone": "+216 21 263 360"
+      "id": 1,
+      "title": "MERN Full-Stack Web course",
+      "type": ["continuous-training"]
     },
     {
-        "id": 2,
-        "name": "Ibrahim Lokmani",
-        "roles": ["ceo", "trainer"],
-        "phone": "+216 21 868 151"
+      "id": 2,
+      "title": "React Native Mobile course",
+      "type": ["continuous-training"]
     },
     {
-        "id": 3,
-        "name": "Ferdaous Ettis",
-        "roles": ["assistant"],
-        "phone": "+216 21 234 567"
+      "id": 3,
+      "title": "Java JEE/Spring course",
+      "type": ["continuous-training"]
+    },
+    {
+      "id": 4,
+      "title": "Website development",
+      "type": ["BTS", "BTP", "CAP"]
     }
-]
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Malek Boubakri",
+      "roles": ["trainer", "advisor"],
+      "phone": "+216 21 263 360"
+    },
+    {
+      "id": 2,
+      "name": "Ibrahim Lokmani",
+      "roles": ["ceo", "trainer"],
+      "phone": "+216 21 868 151"
+    },
+    {
+      "id": 3,
+      "name": "Ferdaous Ettis",
+      "roles": ["assistant"],
+      "phone": "+216 21 234 567"
+    }
+  ]
+}
