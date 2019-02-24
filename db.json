@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Malek Boubakri",
+        "roles": ["trainer", "advisor"],
+        "phone": "+216 21 263 360"
+    },
+    {
+        "id": 2,
+        "name": "Ibrahim Lokmani",
+        "roles": ["ceo", "trainer"],
+        "phone": "+216 21 868 151"
+    },
+    {
+        "id": 3,
+        "name": "Ferdaous Ettis",
+        "roles": ["assistant"],
+        "phone": "+216 21 234 567"
+    }
+]
