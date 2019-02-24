@@ -3,22 +3,26 @@
     {
       "id": 1,
       "title": "MERN Full-Stack Web course",
-      "type": ["continuous-training"]
+      "type": ["continuous-training"],
+      "level": 4
     },
     {
       "id": 2,
       "title": "React Native Mobile course",
-      "type": ["continuous-training"]
+      "type": ["continuous-training"],
+      "level": 3
     },
     {
       "id": 3,
       "title": "Java JEE/Spring course",
-      "type": ["continuous-training"]
+      "type": ["continuous-training"],
+      "level": 5
     },
     {
       "id": 4,
       "title": "Website development",
-      "type": ["BTS", "BTP", "CAP"]
+      "type": ["BTS", "BTP", "CAP"],
+      "level": 5
     }
   ],
   "users": [
@@ -26,19 +30,22 @@
       "id": 1,
       "name": "Malek Boubakri",
       "roles": ["trainer", "advisor"],
-      "phone": "+216 21 263 360"
+      "phone": "+216 21 263 360",
+      "email": "malekbouba@gmail.com"
     },
     {
       "id": 2,
       "name": "Ibrahim Lokmani",
       "roles": ["ceo", "trainer"],
-      "phone": "+216 21 868 151"
+      "phone": "+216 21 868 151",
+      "email": "lokmaniibrahim1993@gmail.com"
     },
     {
       "id": 3,
       "name": "Ferdaous Ettis",
       "roles": ["assistant"],
-      "phone": "+216 21 234 567"
+      "phone": "+216 21 234 567",
+      "email": "contact@hapt.tn"
     }
   ]
 }
